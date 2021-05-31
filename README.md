@@ -13,4 +13,4 @@ Scanned documents sometimes can have pages with low contrast and low brightness.
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-cy7r42ztzx7iw)
